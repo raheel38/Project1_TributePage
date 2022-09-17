@@ -1,0 +1,26 @@
+body{
+    background-color:lightgray;
+    
+}
+#title{
+    margin-top: 50px;
+    text-align: center;
+    font-style: oblique;
+    color: #2c5063;
+}
+img{
+    width: 210px;
+    height: 210px;
+    border-radius: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+p{
+    font-style:normal;
+    font-size: medium;
+    color: #304650;
+    margin-left: 60px;
+    margin-right: 60px;
+}
